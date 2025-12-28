@@ -48,7 +48,7 @@ Most *M. silva* can understand Common, Elven, and Dwarvish & can speak them tele
 ### Species Information:
 ***Creature Type.*** Monstrosity
 
-***Size.*** Varies from Small to Gargantuan as you age. See ***Size Calculation*** Trait on next page.
+***Size.*** Varies from Small to Gargantuan as you age. See ***Size Calculation*** Trait below.
 
 ***Speed.*** Your base Speed is 30 feet (9m).
 
@@ -84,7 +84,7 @@ If you are intentionally trying to step on a target, make the attack roll at Dis
 *Optional Rules:* The range and number for multi-Creature communication increases by 20’ (6m) & 5 Creatures respectively for every 35 yrs over the age of 60 you are, capping out at a range of 100’ (30m) & a total of 30 Creatures at the age of 200.<br>
 *Alternate Optional Rules: The range and number for multi-Creature communication increase by 4’ (1.2m) & 1 Creature respectively for every 7 yrs over the age of 60 you are, capping out at a range of 100’ (30m) & a total of 30 Creatures at the age of 200.*
 
-***Forest Guardian.*** You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Forest Guardian Lineages table on the next page. You gain the level 1 benefit of that lineage.<br>
+***Forest Guardian.*** You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Forest Guardian Lineages table below. You gain the level 1 benefit of that lineage.<br>
 When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.<br>
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 ##### Forest Guardian Lineages
